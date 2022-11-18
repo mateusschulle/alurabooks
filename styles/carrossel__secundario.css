@@ -69,3 +69,15 @@
     font-weight: 700;
     text-decoration: none;
 }
+
+@media screen and (min-width: 1024px) {
+
+    .card-secundario {
+        width: 50%;
+        margin: 2em auto;
+    }
+
+    .carrossel__titulo-secundario {
+        font-size: 26px;
+    }
+}
